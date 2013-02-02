@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-02-02 10:06+0900\n"
+"PO-Revision-Date: 2013-02-02 10:43+0900\n"
 "Last-Translator: \n"
 "Language-Team: akagisho <akagisho@gmail.com>\n"
 "X-Generator: Poedit 1.5.4\n"
@@ -3023,13 +3023,15 @@ msgstr "Bit51 on the Web"
 
 #: lib/bit51/bit51.php:467
 msgid "It looks like you've been enjoying"
-msgstr ""
+msgstr " "
 
 #: lib/bit51/bit51.php:467
 msgid ""
 "for at least 30 days. Would you consider a small donation to help support "
 "continued development of the plugin?"
 msgstr ""
+"を30日以上ご利用いただいているようですね。このプラグインの開発継続を支援する"
+"ために、寄付をご検討いただけませんでしょうか。"
 
 #: lib/bit51/bit51.php:467
 msgid "Rate it 5★'s"
@@ -3037,11 +3039,11 @@ msgstr ""
 
 #: lib/bit51/bit51.php:467
 msgid "Tell Your Followers"
-msgstr ""
+msgstr "フォロワーに紹介する"
 
 #: lib/bit51/bit51.php:467
 msgid "Don't Bug Me Again"
-msgstr ""
+msgstr "以後表示しない"
 
 #. Plugin Name of the plugin/theme
 msgid "Better WP Security"
